@@ -32,3 +32,6 @@
 	display: block;
 	background-color: green;
 }
+#onpage a {
+	text-decoration: underline overline;
+}
